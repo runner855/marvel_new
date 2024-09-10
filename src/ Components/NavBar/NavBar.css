@@ -1,0 +1,12 @@
+ul {
+  display: flex;
+  justify-content: left;
+  border-bottom: solid 0.2em black;
+}
+
+li {
+  list-style: none;
+  margin-right: 1em;
+  font-weight: 600;
+  margin-bottom: 0.6em;
+}
